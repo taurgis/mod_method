@@ -18,4 +18,5 @@ Where action is one of:
 ## Examples
 
  To set all OPTIONS requests to a GET request, use
-  Method replace OPTIONS GET
+ 
+      Method replace OPTIONS GET

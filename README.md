@@ -1,5 +1,6 @@
+# mod_method
 
-mod_method.c: Currently only supports replacing a method in a request with a
+Currently only supports replacing a method in a request with a
 new value.
 
 ## What is it?
